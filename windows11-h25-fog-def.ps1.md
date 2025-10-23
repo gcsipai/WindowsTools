@@ -2,7 +2,7 @@
 
 **Fájlnév:** `windows11-h25-fog-def.ps1`
 
-Ez a **v2.3 STABIL** PowerShell 🚀 szkript célja a **Windows 11 (25H2+)** 🟦 operációs rendszer automatizált és biztonságos előkészítése a **FOG Project** 🌫️ segítségével történő klónozáshoz (Golden Image készítés). Kiemelt figyelmet fordít a BitLocker kezelésére és a kritikus **Windows 11 Build 26000+** 🟦 System ID (SID) problémák javítására.
+Ez a **v2.3 BÉTA** PowerShell 🚀 szkript célja a **Windows 11 (25H2+)** 🟦 operációs rendszer automatizált és biztonságos előkészítése a **FOG Project** 🌫️ segítségével történő klónozáshoz (Golden Image készítés). Kiemelt figyelmet fordít a BitLocker kezelésére és a kritikus **Windows 11 Build 26000+** 🟦 System ID (SID) problémák javítására.
 
 ---
 
